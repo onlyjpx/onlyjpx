@@ -1,11 +1,11 @@
 # 👋 João Pedro
 
-💻 Estudante de Computação | 6º período  
-🚀 Focado em desenvolvimento backend, sistemas distribuídos e aplicações web modernas  
+Estudante de Computação | 6º período  
+Focado em desenvolvimento backend, sistemas distribuídos e aplicações web modernas  
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlyjpx&layout=compact&theme=tokyonight)
 
@@ -13,23 +13,23 @@
 
 ---
 
-## 🧠 Tecnologias
+## Tecnologias
 
-### 💻 Backend
+### Backend
 - Java (17+)
 - Node.js (Express)
 - Prisma ORM
 
-### 🌐 Frontend
+### Frontend
 - React (Vite)
 - TailwindCSS
 - React Query
 - React Router
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - PostgreSQL
 
-### ⚙️ Outros
+### Outros
 - Git & GitHub
 - Maven
 - JSON / APIs REST
@@ -37,9 +37,9 @@
 
 ---
 
-## 🚧 Projetos em destaque
+## Projetos em destaque
 
-### 🎵 Guess The Song
+### Guess The Song
 Minigame interativo onde o usuário escuta um trecho de música e tenta adivinhar.
 
 **Stack:**
@@ -55,7 +55,7 @@ Minigame interativo onde o usuário escuta um trecho de música e tenta adivinha
 
 ---
 
-### 🧙 Reino dos Magos
+### Reino dos Magos
 Sistema distribuído com comunicação via mensagens.
 
 **Stack:**
@@ -71,7 +71,7 @@ Sistema distribuído com comunicação via mensagens.
 
 ---
 
-## 📈 Em evolução
+## Em evolução
 
 Atualmente focado em:
 - Sistemas distribuídos
